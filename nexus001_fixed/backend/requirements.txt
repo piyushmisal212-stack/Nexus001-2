@@ -18,3 +18,4 @@ starlette==0.37.2
 anyio==4.13.0
 dnspython==2.8.0
 pillow==12.2.0
+cryptography==41.0.7
